@@ -5,6 +5,7 @@
 ### Данный репозиторий содержит в себе:
 
   - .ipynb файл с программным решением
+  - .py файл с интерфейсом
   - Подписанный отчёт
   - Сертификат о прохождении курса
   - Ссылка на датасет: https://drive.google.com/drive/folders/1q4ZtpTmRRqINjuk4GYsktUKd0axstDa8?usp=drive_link
